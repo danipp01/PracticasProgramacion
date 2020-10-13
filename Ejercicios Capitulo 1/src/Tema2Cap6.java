@@ -7,10 +7,10 @@ public class Tema2Cap6 {
 		String str = JOptionPane.showInputDialog("Introduzca un número entero:");
 		entero1 = Integer.parseInt(str);
 		if (entero1 % 2 == 0 & entero1 != 0) {
-			System.out.println("El número par es: " + entero1);
+			System.out.println("Este número es par: " + entero1);
 		}
 		if (entero1 % 2 == 1) {
-			System.out.println("El número impar es: " + entero1);
+			System.out.println("Este número es impar: " + entero1);
 		}
 
 	}
