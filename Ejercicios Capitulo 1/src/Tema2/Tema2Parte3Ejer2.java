@@ -1,3 +1,4 @@
+package Tema2;
 import javax.swing.JOptionPane;
 
 public class Tema2Parte3Ejer2 {

@@ -1,3 +1,4 @@
+package Tema2;
 import java.lang.runtime.ObjectMethods;
 import javax.swing.JOptionPane;
 public class Tema2Cap2 extends ObjectMethods {
